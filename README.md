@@ -15,7 +15,7 @@ https://www.amazon.co.jp/%E3%80%90Amazon%E9%99%90%E5%AE%9A%E3%83%96%E3%83%A9%E3%
 https://www.amazon.co.jp/gp/bestsellers/kitchen/ref=zg_bs_kitchen_home_all?pf_rd_p=234a2e41-c662-4f1c-987f-e3b33cc421ff&pf_rd_s=center-1&pf_rd_t=2101&pf_rd_i=home&pf_rd_m=AN1VRQENFRJN5&pf_rd_r=69W2MBGRT6S8E3WYBSCH&pf_rd_r=69W2MBGRT6S8E3WYBSCH&pf_rd_p=234a2e41-c662-4f1c-987f-e3b33cc421ff
 
 ## ３
-レッスン１，２を組み合わせて、ランキング商品ページを指定したら商品をすべてスクレイピングし
+１，２を組み合わせて、ランキング商品ページを指定したら商品をすべてスクレイピングし
 情報を取得できるようにしてみましょう（最大１００商品）
 
 ## ４
