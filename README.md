@@ -29,6 +29,7 @@ ASIN一覧を直接指定して情報を取得できるようにしてみよう�
 ## ６
 マルチスレッド化することで、同時にスクレイピングを実施し（ブラウザを複数起動させる）
 取得速度を上げて見よう。
-
+(threadingライブラリを使用)
+  
 # 回答例
 https://github.com/marutoraman/amazon-scraping
